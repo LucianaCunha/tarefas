@@ -101,6 +101,4 @@ poetry run python manage.py test
 
 Adicione aqui a informação de licença do projeto (se houver).
 
----
 
-Se quiser, posso também adicionar instruções de deploy, um `requirements.txt` gerado, ou ajustar a documentação para seu fluxo (Docker, Heroku, etc.).
