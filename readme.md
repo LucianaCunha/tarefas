@@ -95,6 +95,7 @@ poetry run python manage.py test
 ```
 
 ## Tela
+<img width="1595" height="605" alt="image" src="https://github.com/user-attachments/assets/aa7dea91-6b26-4aea-9b12-41d2f5fdbd1b" />
 
 ## Licença
 
