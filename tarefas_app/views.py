@@ -26,7 +26,7 @@ def toggle_concluida(request, pk):
     tarefa = get_object_or_404(Tarefa, pk=pk)
     tarefa.concluida = not tarefa.concluida
     tarefa.save()
-    return redirect(request.POST.get('next', 'lista_tarefas'))
+    return redirect('lista_tarefas')
 
 @require_POST
 def deletar_tarefa(request, pk):
