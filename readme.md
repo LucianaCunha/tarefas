@@ -99,6 +99,6 @@ poetry run python manage.py test
 
 ## Licença
 
-Adicione aqui a informação de licença do projeto (se houver).
+
 
 
